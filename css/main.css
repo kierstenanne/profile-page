@@ -10,6 +10,9 @@ body {
   margin: 0;
   font-family: 'DM Sans', sans-serif;
   line-height: 1.4;
+  background-image: url('images/nick-adams-yTWq8n3-4k0-unsplash.jpg');
+  color: #FFFFFF;
+  }
 }
 
 img {
@@ -64,9 +67,4 @@ h3 {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-}
-
-body {
-    background-image: url('images/nick-adams-yTWq8n3-4k0-unsplash.jpg');
-    color: #FFFFFF;
 }
