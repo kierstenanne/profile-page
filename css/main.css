@@ -76,3 +76,7 @@ h3 {
    background-size: cover;
    background: #000 url('images/nick-adams-yTWq8n3-4k0-unsplash.jpg' no-repeat center cente);
  }
+ body {
+ background-image: url("images/nick-adams-yTWq8n3-4k0-unsplash.jpg");
+ background-color: #000;
+}
