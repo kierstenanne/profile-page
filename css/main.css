@@ -18,9 +18,45 @@ img {
   max-width: 100%;
 }
 
+.about-me-text{
+  width: 50%;
+}
+
+.my-work-text{
+}
+
+
 .about-me {
   max-width: 1080px;
   margin: 0 auto;
+  display:flex;
+}
+.my-work {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+nav ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 1.25em 0;
+  display: flex;
+  justify-content: center;
+  background-color:#3E5159
+  color: #E4EBF2
+
+}
+nav ol li {
+  padding: 0 .5em;
+}
+
+nav ol li a {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav ol li a:hover {
+  text-decoration: underline;
 }
 
 
