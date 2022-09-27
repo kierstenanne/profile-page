@@ -66,17 +66,7 @@ h3 {
   border-radius: 50%;
 }
 
-.hero-image {
-  width: 100%;
-  height: 80vh; /* You must set a specified height */
-  background-color: #000; /* Used if the image is unavailable */
-  background-image: url('images/nick-adams-yTWq8n3-4k0-unsplash.jpg');/* The image used */
-  background-repeat: no-repeat;/* Do not repeat the image */
-   background-position: center center;/* Center the image */
-   background-size: cover;
-   background: #000 url('images/nick-adams-yTWq8n3-4k0-unsplash.jpg' no-repeat center cente);
- }
- body {
- background-image: url("images/nick-adams-yTWq8n3-4k0-unsplash.jpg");
- background-color: #000;
+body {
+    background-image: url('images/nick-adams-yTWq8n3-4k0-unsplash.jpg');
+    color: #FFFFFF;
 }
